@@ -1,15 +1,15 @@
 
-{"storeHouse": [
-{"sourceName":"饭佬接口","sourceUrl":"http://fty.xxooo.cf/tv"},
-{"sourceName":"肥猫接口","sourceUrl":"http://肥猫.net/"},
-{"sourceName":"摸鱼接口","sourceUrl":"https://6800.kstore.vip/fish.json"},
-{"sourceName":"牛二接口","sourceUrl":"https://9280.kstore.vip/newwex.json"},
-{"sourceName":"海豚接口","sourceUrl":"https://seep.eu.org/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚666.json"},
-{"sourceName":"白盒接口","sourceUrl":"https://gist.githubusercontent.com/ph7368/20ee6c7b64d77d82f8f4162cdd04ad61/raw/gistfile1.txt"}, 
-{"sourceName":"嗷呜接口","sourceUrl":"https://9763.kstore.space/aowu.json"},
-{"sourceName":"PG接口","sourceUrl":"https://cnb.cool/fish2018/pg/-/git/raw/main/jsm.json"},
-{"sourceName":"真心接口","sourceUrl":"https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json"},
-{"sourceName":"潇洒接口","sourceUrl":"https://cnb.cool/fish2018/xs/-/git/raw/main/api.json"},
-{"sourceName":"OB接口","sourceUrl":"https://omnibox.qzz.io/api/subscription/cai/tvbox?token=cai"},
-{"sourceName":"OB瑟瑟","sourceUrl":"https://omnibox.qzz.io/api/subscription/18/tvbox?token=18"},
-{"sourceName":"裤佬接口","sourceUrl":"https://seep.eu.org/https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"}]}
+{"urls": [
+{"name":"饭佬接口","url":"http://fty.xxooo.cf/tv"},
+{"name":"肥猫接口","url":"http://肥猫.net/"},
+{"name":"摸鱼接口","url":"https://6800.kstore.vip/fish.json"},
+{"name":"牛二接口","url":"https://9280.kstore.vip/newwex.json"},
+{"name":"海豚接口","url":"https://seep.eu.org/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚666.json"},
+{"name":"白盒接口","url":"https://gist.githubusercontent.com/ph7368/20ee6c7b64d77d82f8f4162cdd04ad61/raw/gistfile1.txt"}, 
+{"name":"嗷呜接口","url":"https://9763.kstore.space/aowu.json"},
+{"name":"PG接口","url":"https://cnb.cool/fish2018/pg/-/git/raw/main/jsm.json"},
+{"name":"真心接口","url":"https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json"},
+{"name":"潇洒接口","url":"https://cnb.cool/fish2018/xs/-/git/raw/main/api.json"},
+{"name":"OB接口","url":"https://omnibox.qzz.io/api/subscription/cai/tvbox?token=cai"},
+{"name":"OB瑟瑟","url":"https://omnibox.qzz.io/api/subscription/18/tvbox?token=18"},
+{"name":"裤佬接口","url":"https://seep.eu.org/https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"}]}
